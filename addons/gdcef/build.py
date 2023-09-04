@@ -43,7 +43,7 @@ CEF_VERSION = "110.0.27+g1296c82+chromium-110.0.5481.100"
 CEF_TARGET = "Release"             # or "Debug"
 MODULE_TARGET = "release"          # or "debug"
 GODOT_CPP_TARGET = "release"       # or "debug"
-GODOT_VERSION = "4.0"              # or "master" or "3.5" or "3.4"
+GODOT_VERSION = "4.1"              # or "master" or "3.5" or "3.4"
 CMAKE_MIN_VERSION = "3.19"         # Minimun CMake version needed for compiling CEF
 GODOT_EXECUTABLE = "godot"         # Adapt the path to your Godot-4 path (not used for Godot-3)
 
